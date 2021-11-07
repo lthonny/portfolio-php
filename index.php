@@ -43,7 +43,7 @@
         <div class="sidebar-wrapper">
             <div class="profile-container">
                 <img class="profile" alt="" />
-                <img class="profile" src="assets/images/profile.png" alt="" />
+                <img class="profile" src="assets/images/ava.jpg" alt="" />
                 <h1 class="name"><?= $aboutData['name'] ?></h1>
                 <h3 class="tagline"><?= $aboutData['post'] ?></h3>
             </div><!--//profile-container-->
